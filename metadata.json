@@ -1,0 +1,8 @@
+{
+  "name": "Track me",
+  "description": "Personal dark neumorphic habit tracker for daily consistency, streak mastery, and monthly analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
